@@ -21,6 +21,7 @@ Me apasiona contar historias con datos, automatizar procesos y seguir aprendiend
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat)
 
 ###
 
