@@ -1,10 +1,22 @@
 # ¡Hola, soy Gabriela! 👋
 
-Soy Ingeniera Industrial y Analista de Datos Junior.  
-Me apasiona contar historias con datos, automatizar procesos y seguir aprendiendo en el mundo de la ciencia de datos.  
+Soy Ingeniera Industrial y Analista de Datos con una fuerte orientación al aprendizaje continuo. Comencé optimizando procesos en la industria y luego me volqué al análisis de datos, donde descubrí una gran pasión: transformar datos en decisiones. Disfruto automatizar tareas, crear dashboards claros y contar historias con datos. Actualmente sigo formándome en Ciencia de Datos, y comparto mi recorrido para ayudar a otras personas que también están empezando.
 
-📊 Trabajo con herramientas como Power BI, SQL, Excel y Python.  
-🚀 Compartiendo mi recorrido como aprendiz de Data Science.
+**🧠 Áreas que me apasionan:**
+- Análisis de datos y visualización  
+- Automatización de procesos con herramientas low-code y Python  
+- Ciencia de Datos y aprendizaje automático (Machine Learning)  
+- Storytelling con dashboards interactivos  
+
+**🚀 Actualmente estoy:**
+- Aprendiendo más sobre Machine Learning aplicado a datos reales  
+- Compartiendo proyectos e ideas en redes sociales y GitHub  
+- Buscando oportunidades para crecer en análisis de datos o ciencia de datos  
+
+**🔗 Podés encontrarme en:**
+- [LinkedIn](https://www.linkedin.com/in/gisele-g-miranda/)  
+- [Medium](https://medium.com/@gabyymm19/)
+
 
 ---
 ### 💻 Herramientas y Tecnologías
